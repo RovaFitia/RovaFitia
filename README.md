@@ -1,6 +1,4 @@
 <h2 align="center">👋 Hi everyone!</h2>
-<br>
-<br>
 <p align="center">  
   <a href="https://codeur-mdg.vercel.app/">me</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://codeur-mdg.vercel.app/services">services</a>&nbsp;&nbsp;•&nbsp;&nbsp;
