@@ -7,3 +7,4 @@
   <a href="https://codeur-mdg.vercel.app/contact">contact</a>
 </p>
 
+![YOLO Contributor](https://img.shields.io/badge/YOLO-Contributor-green?style=flat-square)
